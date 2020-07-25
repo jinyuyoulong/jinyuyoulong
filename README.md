@@ -1,6 +1,8 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jinyuyoulong&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋 我是范子！
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jinyuyoulong&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 
 - 🔭 13年开始以iOS开发入门IT，从此打开了一个新的世界，愿我一生都与Internet有关。
 - 🌱 一个还是在惶恐探索互联网边界的小白。
